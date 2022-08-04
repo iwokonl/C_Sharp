@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GiHM+qWZLtp/ZCEZZQ2oMDzrKwHc2W6zf12G3nL+s8lFfmrujJNm8L+ugPIJBvXjfI+LM3gazqdQRQUHRF/G9Q==",
+  "dgSpecHash": "g+rg0lf32IRE1xSqBHXLaw4kBv5bE0NVypFG5s9it6SrADJylIfeqpuM5bBD4Aalv3vT0KINuhAtalnegLRwBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iwoko\\source\\repos\\Zadanko_Ewelina\\Zadanko_Ewelina\\Zadanko_Ewelina.csproj",
+  "projectFilePath": "C:\\Users\\iwoko\\OneDrive\\Dokumenty\\GitHub\\C_Sharp\\Zadanko_Ewelina\\Zadanko_Ewelina\\Zadanko_Ewelina.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iwoko\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\iwoko\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

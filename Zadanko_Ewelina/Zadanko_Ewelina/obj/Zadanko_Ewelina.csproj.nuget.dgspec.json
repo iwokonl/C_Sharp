@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iwoko\\source\\repos\\Zadanko_Ewelina\\Zadanko_Ewelina\\Zadanko_Ewelina.csproj": {}
+    "C:\\Users\\iwoko\\OneDrive\\Dokumenty\\GitHub\\C_Sharp\\Zadanko_Ewelina\\Zadanko_Ewelina\\Zadanko_Ewelina.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iwoko\\source\\repos\\Zadanko_Ewelina\\Zadanko_Ewelina\\Zadanko_Ewelina.csproj": {
+    "C:\\Users\\iwoko\\OneDrive\\Dokumenty\\GitHub\\C_Sharp\\Zadanko_Ewelina\\Zadanko_Ewelina\\Zadanko_Ewelina.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iwoko\\source\\repos\\Zadanko_Ewelina\\Zadanko_Ewelina\\Zadanko_Ewelina.csproj",
+        "projectUniqueName": "C:\\Users\\iwoko\\OneDrive\\Dokumenty\\GitHub\\C_Sharp\\Zadanko_Ewelina\\Zadanko_Ewelina\\Zadanko_Ewelina.csproj",
         "projectName": "Zadanko_Ewelina",
-        "projectPath": "C:\\Users\\iwoko\\source\\repos\\Zadanko_Ewelina\\Zadanko_Ewelina\\Zadanko_Ewelina.csproj",
+        "projectPath": "C:\\Users\\iwoko\\OneDrive\\Dokumenty\\GitHub\\C_Sharp\\Zadanko_Ewelina\\Zadanko_Ewelina\\Zadanko_Ewelina.csproj",
         "packagesPath": "C:\\Users\\iwoko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iwoko\\source\\repos\\Zadanko_Ewelina\\Zadanko_Ewelina\\obj\\",
+        "outputPath": "C:\\Users\\iwoko\\OneDrive\\Dokumenty\\GitHub\\C_Sharp\\Zadanko_Ewelina\\Zadanko_Ewelina\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iwoko\\AppData\\Roaming\\NuGet\\NuGet.Config",

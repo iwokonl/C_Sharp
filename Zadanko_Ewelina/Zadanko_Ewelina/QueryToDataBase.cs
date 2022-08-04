@@ -14,7 +14,7 @@ namespace Zadanko_Ewelina
             SQLiteConnection sqliteConn;
             sqliteConn = 
                 new SQLiteConnection
-                (@"Data Source = C:\Users\iwoko\source\repos\Zadanko_Ewelina\Zadanko_Ewelina\bin\Debug\net6.0\new_db.db; Version = 3; New = True; Compress = True");
+                (@"Data Source = C:\Users\iwoko\OneDrive\Dokumenty\GitHub\C_Sharp\Zadanko_Ewelina\App\bin\Debug\net6.0-windows\new_db.db; Version = 3; New = True; Compress = True");
             try
             {
                 sqliteConn.Open();

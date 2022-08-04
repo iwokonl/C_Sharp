@@ -1180,11 +1180,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iwoko\\source\\repos\\Zadanko_Ewelina\\App\\App.csproj",
+      "projectUniqueName": "C:\\Users\\iwoko\\OneDrive\\Dokumenty\\GitHub\\C_Sharp\\Zadanko_Ewelina\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\iwoko\\source\\repos\\Zadanko_Ewelina\\App\\App.csproj",
+      "projectPath": "C:\\Users\\iwoko\\OneDrive\\Dokumenty\\GitHub\\C_Sharp\\Zadanko_Ewelina\\App\\App.csproj",
       "packagesPath": "C:\\Users\\iwoko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iwoko\\source\\repos\\Zadanko_Ewelina\\App\\obj\\",
+      "outputPath": "C:\\Users\\iwoko\\OneDrive\\Dokumenty\\GitHub\\C_Sharp\\Zadanko_Ewelina\\App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iwoko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1201,8 +1201,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\iwoko\\source\\repos\\Zadanko_Ewelina\\Zadanko_Ewelina\\Zadanko_Ewelina.csproj": {
-              "projectPath": "C:\\Users\\iwoko\\source\\repos\\Zadanko_Ewelina\\Zadanko_Ewelina\\Zadanko_Ewelina.csproj"
+            "C:\\Users\\iwoko\\OneDrive\\Dokumenty\\GitHub\\C_Sharp\\Zadanko_Ewelina\\Zadanko_Ewelina\\Zadanko_Ewelina.csproj": {
+              "projectPath": "C:\\Users\\iwoko\\OneDrive\\Dokumenty\\GitHub\\C_Sharp\\Zadanko_Ewelina\\Zadanko_Ewelina\\Zadanko_Ewelina.csproj"
             }
           }
         }
