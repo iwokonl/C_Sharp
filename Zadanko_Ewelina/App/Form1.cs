@@ -7,10 +7,10 @@ namespace App
     {
         public delegate void UpdateDelegate(object sender, UpdateEventArgs args);
         public event UpdateDelegate UpdateEventHandler;
-        public class UpdateEventArgs : EventArgs
-        {
-            public string Data { get; set; }
-        }
+        //public class UpdateEventArgs : EventArgs
+        ////{
+        ////    public string Data { get; set; }
+        ////}
 
 
 
