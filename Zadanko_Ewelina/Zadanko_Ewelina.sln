@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanko_Ewelina", "Zadanko_Ewelina\Zadanko_Ewelina.csproj", "{AAB13BEF-E8C0-496A-95D0-1DA982383057}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App", "App\App.csproj", "{D7C97908-2FC0-43D0-8207-ED636AD15570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB13BEF-E8C0-496A-95D0-1DA982383057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB13BEF-E8C0-496A-95D0-1DA982383057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB13BEF-E8C0-496A-95D0-1DA982383057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB13BEF-E8C0-496A-95D0-1DA982383057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C97908-2FC0-43D0-8207-ED636AD15570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C97908-2FC0-43D0-8207-ED636AD15570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C97908-2FC0-43D0-8207-ED636AD15570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C97908-2FC0-43D0-8207-ED636AD15570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30439A29-C0C9-444E-8D74-0A11F1AC9CFA}
+	EndGlobalSection
+EndGlobal
