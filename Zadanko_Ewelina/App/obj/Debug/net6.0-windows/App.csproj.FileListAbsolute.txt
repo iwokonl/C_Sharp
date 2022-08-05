@@ -62,7 +62,6 @@ C:\Users\iwoko\OneDrive\Dokumenty\GitHub\C_Sharp\Zadanko_Ewelina\App\bin\Debug\n
 C:\Users\iwoko\OneDrive\Dokumenty\GitHub\C_Sharp\Zadanko_Ewelina\App\bin\Debug\net6.0-windows\Zadanko_Ewelina.pdb
 C:\Users\iwoko\OneDrive\Dokumenty\GitHub\C_Sharp\Zadanko_Ewelina\App\obj\Debug\net6.0-windows\App.csproj.AssemblyReference.cache
 C:\Users\iwoko\OneDrive\Dokumenty\GitHub\C_Sharp\Zadanko_Ewelina\App\obj\Debug\net6.0-windows\App.Form1.resources
-C:\Users\iwoko\OneDrive\Dokumenty\GitHub\C_Sharp\Zadanko_Ewelina\App\obj\Debug\net6.0-windows\App.FRM_GRIDVIEW.resources
 C:\Users\iwoko\OneDrive\Dokumenty\GitHub\C_Sharp\Zadanko_Ewelina\App\obj\Debug\net6.0-windows\App.csproj.GenerateResource.cache
 C:\Users\iwoko\OneDrive\Dokumenty\GitHub\C_Sharp\Zadanko_Ewelina\App\obj\Debug\net6.0-windows\App.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\iwoko\OneDrive\Dokumenty\GitHub\C_Sharp\Zadanko_Ewelina\App\obj\Debug\net6.0-windows\App.AssemblyInfoInputs.cache

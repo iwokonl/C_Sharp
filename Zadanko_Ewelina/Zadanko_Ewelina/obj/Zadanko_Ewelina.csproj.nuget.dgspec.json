@@ -13,8 +13,12 @@
         "packagesPath": "C:\\Users\\iwoko\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\iwoko\\OneDrive\\Dokumenty\\GitHub\\C_Sharp\\Zadanko_Ewelina\\Zadanko_Ewelina\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\iwoko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

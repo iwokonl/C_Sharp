@@ -13,8 +13,8 @@ namespace Zadanko_Ewelina
     public class Model
     {
         public int? Id { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public string? FirstName { get; set; }
+        public string? LastName { get; set; }
         public static string FirstName2 = "";
         public static string LastName2 = "";
         public static string? IdLocal = "-1";

@@ -14,7 +14,7 @@ namespace Zadanko_Ewelina
             SQLiteConnection sqliteConn;
             sqliteConn = 
                 new SQLiteConnection
-                (@"Data Source = C:\Users\iwoko\OneDrive\Dokumenty\GitHub\C_Sharp\Zadanko_Ewelina\App\bin\Debug\net6.0-windows\new_db.db; Version = 3; New = True; Compress = True");
+                (@"Data Source = new_db.db; Version = 3; New = True; Compress = True");
             try
             {
                 sqliteConn.Open();
@@ -61,8 +61,8 @@ namespace Zadanko_Ewelina
             SQLiteDataReader sqliteReader;
             SQLiteCommand sqliteCommand;
             sqliteCommand = conn.CreateCommand();
-            string query = "SELECT * FROM Personel_new;";
-            sqliteCommand.CommandText = query;
+            //string query = "SELECT * FROM Personel_new;"; niepotrzebne powielenie zmiennej
+            sqliteCommand.CommandText = "SELECT * FROM Personel_new;";
             sqliteReader = sqliteCommand.ExecuteReader();
             while (sqliteReader.Read())
             {
@@ -74,16 +74,6 @@ namespace Zadanko_Ewelina
             }
             conn.Close();
         }
-
-        public static void DeleteData(SQLiteConnection conn, string Command)
-        {
-            SQLiteCommand sqliteCommand;
-            sqliteCommand = conn.CreateCommand();
-            sqliteCommand.CommandText = Command;
-            sqliteCommand.ExecuteNonQuery();
-            conn.Close();
-        }
-
         public static int GenerateId(SQLiteConnection conn)
         {
             SQLiteDataReader sqliteReader;
