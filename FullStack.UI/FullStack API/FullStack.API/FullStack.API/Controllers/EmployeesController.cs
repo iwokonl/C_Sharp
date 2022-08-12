@@ -56,7 +56,7 @@ namespace FullStack.API.Controllers
 
             return Ok(employee);
 
-        }
+        }s
         [HttpDelete]
         [Route("{id:int}")]
         public async Task<IActionResult> DeleteEmployee([FromRoute] int id)
