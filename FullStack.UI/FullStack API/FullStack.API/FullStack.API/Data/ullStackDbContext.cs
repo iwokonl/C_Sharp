@@ -7,10 +7,7 @@ namespace FullStack.API.Data
         public FullStackDbContext(DbContextOptions options) : base(options)
         {
         }
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.UseSerialColumns();
-        }
+
         public DbSet<Employess> Employesses { get; set; }
     }
 }

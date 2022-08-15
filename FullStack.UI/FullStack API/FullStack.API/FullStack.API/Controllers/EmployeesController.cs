@@ -23,10 +23,11 @@ namespace FullStack.API.Controllers
         [HttpPost]
         public async Task<IActionResult> AddEmployee([FromBody] Employess employeeRequest)
         {
-            var employees = await _fullStackDbContext.Employesses.OrderByDescending(x => x.Id).ToListAsync();
+            //var employees = await _fullStackDbContext.Employesses.OrderByDescending(x => x.Id).ToListAsync();
             await _fullStackDbContext.Employesses.AddAsync(employeeRequest);
             await _fullStackDbContext.SaveChangesAsync();
-            return Ok(employees);
+            //return Ok(employees);
+            return Ok();
         }
         [HttpGet]
         [Route("{id:int}")]
@@ -38,7 +39,6 @@ namespace FullStack.API.Controllers
             {
                 return NotFound();
             }
-            Console.WriteLine(employee);
             return Ok(employee);
         }
         [HttpPut]
@@ -55,7 +55,6 @@ namespace FullStack.API.Controllers
             await _fullStackDbContext.SaveChangesAsync();
 
             return Ok(employee);
-
         }
         [HttpDelete]
         [Route("{id:int}")]
